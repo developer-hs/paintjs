@@ -65,3 +65,8 @@ body {
 .controls .controls__range {
   margin-bottom: 30px;
 }
+
+.controls .controls__range .range__write {
+  padding-top: 10px;
+  text-align: center;
+}
